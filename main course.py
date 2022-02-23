@@ -1,5 +1,5 @@
 """
-ini adalah proyek python saya
+my first python project
 """
 print("hello bos")
 print("my name is sawung")
